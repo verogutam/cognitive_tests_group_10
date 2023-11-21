@@ -6,3 +6,6 @@ jupyter_ui_poll
 time
 PIL
 IPython.display
+requests
+bs4
+json
