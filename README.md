@@ -14,5 +14,6 @@
 ## Part C - Spatial Reasoning Test
 
 ## Part D - ANS Test
+### In this test, you will have 3 seconds to choose the grid with the most dots (left or right) based on your approximation after the image is presented to you for 0.75 seconds. There are a total of 64 questions in this test.
 
 ## Good luck, we hope you have fun!
