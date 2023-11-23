@@ -1,4 +1,9 @@
 # Cognitive Test Code (Group 10)
 ## This repository contains code developed to run cognitive tests written as part of the BIOS0030 course.
-## There are four tests to complete. These will test your number estimation, mathematical, memory, and spatial reasoning skills. 
-## When you are ready to begin the tests, click into the folder for the first test and run the code; this will begin the test. When you are finished, go back and click into the folder for the second test and run the code. After completing this test, repeat the same procedure for the tests in the third and fourth folders.
+
+## Welcome to the Cognitive Measure Test! 
+
+## This test consists of four parts - These will test your mathematical, memory, spatial reasoning, and number estimation skills. 
+## To begin the test, open the Main Test folder and run the code. This will open a new tab where you will be able to complete each section, once you are done, you can close the windows!
+
+## Good luck, we hope you have fun!
