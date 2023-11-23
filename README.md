@@ -4,7 +4,6 @@
 # Welcome to the Cognitive Measure Test! 
 
 ## This test consists of four parts - These will test your mathematical, memory, spatial reasoning, and number estimation skills.
-
 ## Please read the following instructions carefully before proceeding; they contain vital information about each test:
 
 ## Part A - Maths Ability Test
