@@ -4,6 +4,7 @@
 ## Welcome to the Cognitive Measure Test! 
 
 ## This test consists of four parts - These will test your mathematical, memory, spatial reasoning, and number estimation skills. 
-## To begin the test, open the Main Test folder and run the code. This will open a new tab where you will be able to complete each section, once you are done, you can close the windows!
+## To begin the test, open the 'Main Test' folder, click on the 'Total' file, and run the code. 
+# This will open a new tab where you will be able to complete each section, once you are done, you can close the windows!
 
 ## Good luck, we hope you have fun!
