@@ -2,7 +2,6 @@
 ## This repository contains code developed to run cognitive tests written as part of the BIOS0030 course.
 
 # Welcome to the Cognitive Measure Test! 
-
 ## This test consists of four parts - These will test your mathematical, memory, spatial reasoning, and number estimation skills.
 ## Please read the following instructions carefully before proceeding; they contain vital information about each test:
 
