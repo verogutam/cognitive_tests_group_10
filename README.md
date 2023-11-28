@@ -18,5 +18,6 @@
 ## Part D - ANS Test
 ### In this test, you will have 3 seconds to choose the grid with the most dots (left or right) based on your approximation after the image is presented to you for 0.75 seconds. There are a total of 64 questions in this section.
 
-# To begin the test, open the 'Main Test' folder, click on the 'Total' file, and run the code. This will open a new tab where you will be able to complete each section; once you are done, you can close the windows! 
+# To begin the test, open the 'Main Test' folder, click on the 'Run All Tests' file, and run the code. This will open a new tab where you will be able to complete each section; once you are done, you can close the windows! 
+
 # Good luck. We hope you have fun!
